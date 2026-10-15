@@ -63,6 +63,4 @@ Risk & Audit    │ Monte Carlo Bootstrap (5,000 runs), Walk-Forward Testing (70
 
 ### 📬 Connect With Me
 
-* 💼 **LinkedIn:** [linkedin.com/in/yourprofile](#)
-* ✉️ **Email:** [your-email@example.com](#)
 * 📍 **Location:** India (Available for Remote Global Roles)
