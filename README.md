@@ -55,7 +55,7 @@ Risk & Audit    │ Monte Carlo Bootstrap (5,000 runs), Walk-Forward Testing (70
 
 ### 🚀 Flagship Quantitative Projects
 
-* 🏆 **Systematic Derivatives Trading Engine:** Dual-engine automated intraday index options harvester (15m ORB + CPR breakouts & morning theta strangles) featuring pessimistic intra-bar fills and multi-broker API connectivity.
+* 🏆 [**Systematic Derivatives Trading Engine**](https://github.com/Muthukumar-sys/systematic-derivatives-engine): Dual-engine automated intraday index options harvester (15m ORB + CPR breakouts & morning theta strangles) featuring pessimistic intra-bar fills and multi-broker API connectivity.
 * 🎲 **Monte Carlo 5k Bootstrap Risk Guardian:** Resampling engine evaluating 5,000 trade sequence iterations, VaR (95%/99%), Conditional VaR, and parameter plateau stability across multi-year tick datasets.
 * ⚡ **High-Throughput Trading Middleware:** Unified execution bridge normalizing order contracts across 30+ financial broker adapters with automated state recovery and killswitches.
 
