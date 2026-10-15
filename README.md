@@ -61,17 +61,6 @@ Risk & Audit    │ Monte Carlo Bootstrap (5,000 runs), Walk-Forward Testing (70
 
 ---
 
-### 📊 GitHub Activity & Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Muthukumar-sys&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Muthukumar's GitHub stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muthukumar-sys&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
-
-</div>
-
----
-
 ### 📬 Connect With Me
 
 * 💼 **LinkedIn:** [linkedin.com/in/yourprofile](#)
